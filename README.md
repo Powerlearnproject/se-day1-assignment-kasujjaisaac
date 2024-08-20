@@ -51,5 +51,5 @@ Prompt engineering is crafting your questions or instructions in a way that help
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Prompt - Help me with my project
-improvement - I need assistance with designing the database schema for a new e-commerce website
+- Prompt - Help me with my project
+- Improvement - I need assistance with designing the database schema for a new e-commerce website
